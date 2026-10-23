@@ -15,5 +15,61 @@
   "devices": {},
   "helpVideos": {},
   "helpVideosAlways": false,
-  "plans": []
+  "plans": [
+    {
+      "name": {
+        "ar": "شهري",
+        "en": "Monthly"
+      },
+      "price": {
+        "ar": "450 ج.م / شهر",
+        "en": "EGP 450 / month"
+      },
+      "days": 30
+    },
+    {
+      "name": {
+        "ar": "3 شهور",
+        "en": "3 months"
+      },
+      "price": {
+        "ar": "1,200 ج.م — وفّر 150",
+        "en": "EGP 1,200 — save 150"
+      },
+      "days": 90
+    },
+    {
+      "name": {
+        "ar": "6 شهور",
+        "en": "6 months"
+      },
+      "price": {
+        "ar": "2,300 ج.م — وفّر 400",
+        "en": "EGP 2,300 — save 400"
+      },
+      "days": 180
+    },
+    {
+      "name": {
+        "ar": "سنوي",
+        "en": "Yearly"
+      },
+      "price": {
+        "ar": "4,000 ج.م — وفّر 1,400",
+        "en": "EGP 4,000 — save 1,400"
+      },
+      "days": 365
+    },
+    {
+      "name": {
+        "ar": "تفعيل دائم",
+        "en": "Lifetime"
+      },
+      "price": {
+        "ar": "10,000 ج.م مرة واحدة",
+        "en": "EGP 10,000 one time"
+      },
+      "lifetime": true
+    }
+  ]
 }
