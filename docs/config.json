@@ -12,5 +12,7 @@
     "en": ""
   },
   "trialDays": 14,
-  "devices": {}
+  "devices": {},
+  "helpVideos": {},
+  "helpVideosAlways": false
 }
