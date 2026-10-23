@@ -1,11 +1,11 @@
 {
   "_help": "Settings for every installed copy of Mazboot. See the README section 'Settings for every copy (config.json)'. Leave a value empty to not use it.",
   "contact": {
-    "ar": "للتفعيل أو الاشتراك تواصل معنا على واتساب أو اتصل بنا",
-    "en": "To activate or subscribe, message us on WhatsApp or call us"
+    "ar": "للتفعيل أو الاشتراك أرسل لنا رسالة على واتساب",
+    "en": "To activate or subscribe, send us a message on WhatsApp"
   },
   "whatsapp": "201100461120",
-  "phone": "01100461120",
+  "phone": "",
   "announcement": {
     "id": "",
     "ar": "",
