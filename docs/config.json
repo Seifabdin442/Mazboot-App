@@ -14,5 +14,6 @@
   "trialDays": 14,
   "devices": {},
   "helpVideos": {},
-  "helpVideosAlways": false
+  "helpVideosAlways": false,
+  "plans": []
 }
